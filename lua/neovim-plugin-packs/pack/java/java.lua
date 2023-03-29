@@ -1,5 +1,5 @@
 -- credits: https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/java/java.lua
-local utils = require "neovim.-plugin-packs.utils"
+local utils = require "neovim-plugin-packs.utils"
 
 -- fix:https://github.com/hrsh7th/nvim-cmp/issues/1017
 table.unpack = table.unpack or unpack -- 5.1 compatibility
