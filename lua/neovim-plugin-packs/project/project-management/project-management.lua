@@ -35,7 +35,7 @@ return {
   {
     "mbbill/undotree",
     keys = {
-      { "<leader>u", "<cmd>UndotreeToggle<cr>", desc = "Undo menu" },
+      { "<leader>uu", "<cmd>UndotreeToggle<cr>", desc = "Undo menu" },
     },
   },
   { "tpope/vim-fugitive" },
